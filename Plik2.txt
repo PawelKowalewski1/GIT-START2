@@ -1,1 +1,3 @@
 drugi plik æwiczenia
+
+https://github.com/PawelKowalewski1/Git-Start.git
